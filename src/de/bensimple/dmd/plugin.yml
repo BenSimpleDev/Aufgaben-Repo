@@ -1,0 +1,9 @@
+main: de.bensimple.dmd.main.Main
+name: BenPlugin
+api-version: 1.8
+author: BenSimple
+version: 0.15
+commands:
+  ben:
+
+  
